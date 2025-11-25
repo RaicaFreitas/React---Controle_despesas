@@ -7,6 +7,8 @@ Com a aplicação, é possível registrar gastos e entradas de dinheiro, categor
 Além disso, o projeto serve como base de estudo e prática em tecnologias web e mobile, organização de arquitetura de software, integração com APIs, consumo de dados em tempo real, validações e boas práticas de desenvolvimento.
 
 Funcionalidades da Aplicação
+
+
 🔹 Categoria
 
 Gerenciamento dos tipos de despesas, como: Alimentação, Transporte, Lazer, etc.
