@@ -8,6 +8,7 @@ Além disso, o projeto serve como base de estudo e prática em tecnologias web e
 
 Funcionalidades da Aplicação
 
+Para que rode esse projeto, é necessário que seja baixado e inicializado a API---Final, encontra-se em meus repositórios.
 
 🔹 Categoria
 
